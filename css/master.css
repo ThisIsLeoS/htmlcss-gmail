@@ -1,0 +1,64 @@
+body {
+  background-image: url(../img/background.jpg);
+  font-family: Arial;
+}
+
+#globalContainer {
+  margin: auto;
+  width: 60%;
+}
+
+#gmailTxt {
+  font-size: 1.5em;
+  margin: 1%;
+  vertical-align: -50%;
+}
+
+.white {
+  color: white;
+}
+
+#unreadTxt {
+  font-size: 1.4em;
+  margin: 1%;
+}
+
+#thirtyTxt {
+  background-color: orange;
+  border-radius: 45%;
+}
+
+.mailBox {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  margin: 0;
+}
+
+.lightGreyBack {
+  background-color: lightgrey;
+}
+
+.whiteBack {
+  background-color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.darkGrey {
+  color: darkgrey;
+}
+
+.centered {
+  text-align: center;
+}
+
+#poweredTxt {
+  font-size: 0.7em;
+}
+
+.italic {
+  font-style: italic;
+}
